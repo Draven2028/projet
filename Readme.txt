@@ -1,0 +1,1 @@
+para a devida inicialização é necessário o inicio pela pasta /arquivobase/index.php
